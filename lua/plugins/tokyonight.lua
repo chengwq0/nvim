@@ -1,4 +1,4 @@
-{
+return {
   "tokyonight.nvim",
   opts = {
     transparent = true,
@@ -6,5 +6,5 @@
       sidebars = "transparent",
       floats = "transparent",
     },
-  }
+  },
 }
