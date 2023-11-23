@@ -1,3 +1,4 @@
+#  配置透明度
 return {
   "tokyonight.nvim",
   opts = {
